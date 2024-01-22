@@ -10,8 +10,8 @@ Yong Zhang,
 Yingqing He,
 Xintao Wang,
 Ying Shan,
-Ziwei Liu*
-<p style="font-size: 0.8em; margin-top: -2em">*Corresponding Author</p>
+Ziwei Liu*   
+(*Corresponding Author)
 
 **[LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103)**
 </br>
@@ -34,10 +34,9 @@ Chen Change Loy,
 Bo Dai, 
 Dahua Lin*, 
 Yu Qiao*, 
-Ziwei Liu*
-<p style="font-size: 0.8em; margin-top: -2em">†Equal Contribution</p>
-<p style="font-size: 0.8em; margin-top: -2em">*Corresponding Author</p>
-</br>
+Ziwei Liu*  
+(†Equal Contribution, *Corresponding Author)
+
 
 <div align="center">
 <img src=assets/A_polar_bear_playing_drum_kit_in_NYC_Times_Square,_4k,_high_resolution.gif>
