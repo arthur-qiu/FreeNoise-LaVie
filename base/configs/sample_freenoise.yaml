@@ -1,0 +1,29 @@
+# path:
+ckpt_path: "../pretrained_models/lavie_base.pt"
+output_folder: "../res/freenoise/"
+pretrained_path: "../pretrained_models"
+
+# model config: 
+model: UNet
+video_length: 64
+image_size: [320, 512]
+
+# beta schedule
+beta_start: 0.0001
+beta_end: 0.02
+beta_schedule: "linear"
+
+# model speedup
+use_compile: False
+use_fp16: True
+
+# sample config:
+seed: 3 #400
+run_time: 0
+guidance_scale: 7.5
+sample_method: 'ddim'
+num_sampling_steps: 50
+text_prompt: [
+              'A corgi is swimming',
+              'A polar bear playing drum kit in NYC Times Square, 4k, high resolution',
+       ] 
