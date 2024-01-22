@@ -66,7 +66,7 @@ Download pre-trained [LaVie models](https://huggingface.co/YaohuiW/LaVie/tree/ma
 ```
 
 
-## Inference Base T2V
+## Inference Base T2V with FreeNoise
 Run following command to generate videos from base T2V model. 
 ```
 cd base
@@ -105,10 +105,10 @@ In **configs/sample.yaml**, arguments for inference:
 
 ```bibtex
 @article{wang2023lavie,
-  title={LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models},
-  author={Wang, Yaohui and Chen, Xinyuan and Ma, Xin and Zhou, Shangchen and Huang, Ziqi and Wang, Yi and Yang, Ceyuan and He, Yinan and Yu, Jiashuo and Yang, Peiqing and others},
-  journal={arXiv preprint arXiv:2309.15103},
-  year={2023}
+      title={LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models},
+      author={Wang, Yaohui and Chen, Xinyuan and Ma, Xin and Zhou, Shangchen and Huang, Ziqi and Wang, Yi and Yang, Ceyuan and He, Yinan and Yu, Jiashuo and Yang, Peiqing and others},
+      journal={arXiv preprint arXiv:2309.15103},
+      year={2023}
 }
 ```
 
