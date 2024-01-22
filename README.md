@@ -42,11 +42,9 @@ Ziwei Liu*
 <div align="center">
 <img src=assets/A_polar_bear_playing_drum_kit_in_NYC_Times_Square,_4k,_high_resolution.gif>
 <p>A polar bear playing drum kit in NYC Times Square, 4k, high resolution</p>
-<br>
 
 <img src=assets/A_knight_riding_a_horse_on_race_course.gif>
 <p>A knight riding a horse on race course</p>
-<br>
 
 <img src=assets/A_jeep_car_is_running_on_the_snow,_night.gif>
 <p>A jeep car is running on the snow, night</p>
