@@ -11,7 +11,7 @@ Yingqing He,
 Xintao Wang,
 Ying Shan,
 Ziwei Liu*
-<p style="font-size: 0.8em; margin-top: -1em">*Corresponding Author</p>
+<p style="font-size: 0.8em; margin-top: -2em">*Corresponding Author</p>
 
 **[LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103)**
 </br>
@@ -35,8 +35,8 @@ Bo Dai,
 Dahua Lin*, 
 Yu Qiao*, 
 Ziwei Liu*
-<p style="font-size: 0.8em; margin-top: -1em">†Equal Contribution</p>
-<p style="font-size: 0.8em; margin-top: -1em">*Corresponding Author</p>
+<p style="font-size: 0.8em; margin-top: -2em">†Equal Contribution</p>
+<p style="font-size: 0.8em; margin-top: -2em">*Corresponding Author</p>
 </br>
 
 <div align="center">
