@@ -591,6 +591,8 @@ class BasicTransformerBlock(nn.Module):
                     value[:,t_start:t_end] += sub_hidden_states * weight_tensor
                     count[:,t_start:t_end] += weight_tensor
 
+                hidden_states = torch.where(count>0, value/count, value)
+
             hidden_states = rearrange(hidden_states, "(b d) f c -> (b f) d c", d=d).contiguous()
 
         # Feed-forward
